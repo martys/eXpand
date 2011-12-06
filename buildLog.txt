@@ -1,0 +1,296 @@
+
+C:\Projects\Xpand>set ProgramFiles=C:\Program Files (x86) 
+
+C:\Projects\Xpand>call defines.bat 
+Registering Xpand assembly folder
+Building Xpand.Utils...
+Done Xpand.Utils
+Building Xpand.ExpressApp.EmailTemplateEngine...
+Done Xpand.ExpressApp.EmailTemplateEngine
+Building Xpand.Xpo...
+Done Xpand.Xpo
+Building Xpand.Persistent.Base...
+Done Xpand.Persistent.Base
+Building Xpand.ExpressApp...
+Done Xpand.ExpressApp
+Building Xpand.ExpressApp.Win...
+ListEditors\LayoutViewGridListEditor.cs(689,18): warning CS0618: 'DevExpress.ExpressApp.Win.IPrintableSource' is obsolete: 'Use IExportable instead.' [C:\Projects\Xpand\Xpand\Xpand.ExpressApp\Xpand.ExpressApp.Win\Xpand.ExpressApp.Win.csproj]
+ListEditors\LayoutViewGridListEditor.cs(767,17): warning CS0612: 'DevExpress.ExpressApp.Editors.IFilterColumnCollectionHelper' is obsolete [C:\Projects\Xpand\Xpand\Xpand.ExpressApp\Xpand.ExpressApp.Win\Xpand.ExpressApp.Win.csproj]
+ListEditors\LayoutViewGridListEditor.cs(767,60): warning CS0612: 'DevExpress.ExpressApp.Editors.FilterColumnCollectionHelper' is obsolete [C:\Projects\Xpand\Xpand\Xpand.ExpressApp\Xpand.ExpressApp.Win\Xpand.ExpressApp.Win.csproj]
+ListEditors\LayoutViewGridListEditor.cs(768,48): warning CS0618: 'DevExpress.ExpressApp.Win.Editors.MemberInfoFilterColumnCollection' is obsolete: 'This class isn't used any more.' [C:\Projects\Xpand\Xpand\Xpand.ExpressApp\Xpand.ExpressApp.Win\Xpand.ExpressApp.Win.csproj]
+SystemModule\FilterByPropertyPathViewController.cs(48,13): warning CS0618: 'DevExpress.ExpressApp.View.SynchronizeInfo()' is obsolete: 'Use 'SaveModel' instead.' [C:\Projects\Xpand\Xpand\Xpand.ExpressApp\Xpand.ExpressApp.Win\Xpand.ExpressApp.Win.csproj]
+SystemModule\FilterControlListViewController.cs(71,13): warning CS0612: 'DevExpress.ExpressApp.Editors.IFilterColumnCollectionHelper' is obsolete [C:\Projects\Xpand\Xpand\Xpand.ExpressApp\Xpand.ExpressApp.Win\Xpand.ExpressApp.Win.csproj]
+SystemModule\FilterControlListViewController.cs(71,56): warning CS0612: 'DevExpress.ExpressApp.Editors.FilterColumnCollectionHelper' is obsolete [C:\Projects\Xpand\Xpand\Xpand.ExpressApp\Xpand.ExpressApp.Win\Xpand.ExpressApp.Win.csproj]
+SystemModule\FilterControlListViewController.cs(72,64): warning CS0618: 'DevExpress.ExpressApp.Win.Editors.MemberInfoFilterColumnCollection' is obsolete: 'This class isn't used any more.' [C:\Projects\Xpand\Xpand\Xpand.ExpressApp\Xpand.ExpressApp.Win\Xpand.ExpressApp.Win.csproj]
+Done Xpand.ExpressApp.Win
+Building Xpand.ExpressApp.Web...
+Done Xpand.ExpressApp.Web
+Building Xpand.ExpressApp.Security...
+Done Xpand.ExpressApp.Security
+Building Xpand.ExpressApp.Validation...
+Done Xpand.ExpressApp.Validation
+Building Xpand.ExpressApp.Validation.Win...
+Done Xpand.ExpressApp.Validation.Win
+Building Xpand.ExpressApp.Validation.Web...
+Done Xpand.ExpressApp.Validation.Web
+Building Xpand.ExpressApp.Logic...
+Done Xpand.ExpressApp.Logic
+Building Xpand.ExpressApp.Logic.Win...
+Done Xpand.ExpressApp.Logic.Win
+Building Xpand.ExpressApp.Logic.Conditional...
+Done Xpand.ExpressApp.Logic.Conditional
+Building Xpand.ExpressApp.MemberLevelSecurity...
+Done Xpand.ExpressApp.MemberLevelSecurity
+Building Xpand.ExpressApp.MemberLevelSecurity.Win...
+Done Xpand.ExpressApp.MemberLevelSecurity.Win
+Building Xpand.ExpressApp.AdditionalViewControlsProvider...
+Done Xpand.ExpressApp.AdditionalViewControlsProvider
+Building Xpand.ExpressApp.AdditionalViewControlsProvider.Win...
+Done Xpand.ExpressApp.AdditionalViewControlsProvider.Win
+Building Xpand.ExpressApp.AdditionalViewControlsProvider.Web...
+Done Xpand.ExpressApp.AdditionalViewControlsProvider.Web
+Building Xpand.ExpressApp.ModelDifference...
+Done Xpand.ExpressApp.ModelDifference
+Building Xpand.ExpressApp.ModelDifference.Win...
+Done Xpand.ExpressApp.ModelDifference.Win
+Building Xpand.ExpressApp.ModelDifference.Web...
+Done Xpand.ExpressApp.ModelDifference.Web
+Building Xpand.ExpressApp.FilterDataStore...
+Done Xpand.ExpressApp.FilterDataStore
+Building Xpand.ExpressApp.FilterDataStore.Win...
+Done Xpand.ExpressApp.FilterDataStore.Win
+Building Xpand.ExpressApp.FilterDataStore.Web...
+Done Xpand.ExpressApp.FilterDataStore.Web
+Building Xpand.ExpressApp.ArtifactState...
+Done Xpand.ExpressApp.ArtifactState
+Building Xpand.ExpressApp.ConditionalActionState...
+Done Xpand.ExpressApp.ConditionalActionState
+Building Xpand.ExpressApp.ConditionalControllerState...
+Done Xpand.ExpressApp.ConditionalControllerState
+Building Xpand.ExpressApp.ModelArtifactState...
+Done Xpand.ExpressApp.ModelArtifactState
+Building Xpand.ExpressApp.WizardUI.Win...
+Done Xpand.ExpressApp.WizardUI.Win
+Building Xpand.ExpressApp.ViewVariants...
+Done Xpand.ExpressApp.ViewVariants
+Building Xpand.ExpressApp.MasterDetail...
+Done Xpand.ExpressApp.MasterDetail
+Building Xpand.ExpressApp.MasterDetail.Win...
+Done Xpand.ExpressApp.MasterDetail.Win
+Building Xpand.ExpressApp.TreeListEditors...
+Done Xpand.ExpressApp.TreeListEditors
+Building Xpand.ExpressApp.TreeListEditors.Web...
+Done Xpand.ExpressApp.TreeListEditors.Web
+Building Xpand.ExpressApp.TreeListEditors.Win...
+Done Xpand.ExpressApp.TreeListEditors.Win
+Building Xpand.ExpressApp.ExceptionHandling...
+Done Xpand.ExpressApp.ExceptionHandling
+Building Xpand.ExpressApp.ExceptionHandling.Win...
+Done Xpand.ExpressApp.ExceptionHandling.Win
+Building Xpand.ExpressApp.ExceptionHandling.Web...
+Done Xpand.ExpressApp.ExceptionHandling.Web
+Building Xpand.ExpressApp.WorldCreator...
+Done Xpand.ExpressApp.WorldCreator
+Building Xpand.ExpressApp.WorldCreator.SqlDBMapper...
+Done Xpand.ExpressApp.WorldCreator.SqlDBMapper
+Building Xpand.ExpressApp.WorldCreator.Win...
+Done Xpand.ExpressApp.WorldCreator.Win
+Building Xpand.ExpressApp.WorldCreator.Web...
+Done Xpand.ExpressApp.WorldCreator.Web
+Building Xpand.ExpressApp.IO...
+Done Xpand.ExpressApp.IO
+Building Xpand.ExpressApp.IO.Win...
+Done Xpand.ExpressApp.IO.Win
+Building Xpand.ExpressApp.IO.Web...
+Done Xpand.ExpressApp.IO.Web
+Building Xpand.ExpressApp.PivotChart...
+Done Xpand.ExpressApp.PivotChart
+Building Xpand.ExpressApp.PivotChart.Win...
+Done Xpand.ExpressApp.PivotChart.Win
+Building Xpand.ExpressApp.PivotChart.Web...
+Done Xpand.ExpressApp.PivotChart.Web
+Building Xpand.NCarousel...
+Done Xpand.NCarousel
+Building Xpand.ExpressApp.NCarousel.Web...
+Done Xpand.ExpressApp.NCarousel.Web
+Building Xpand.ExpressApp.Thumbnail.Web...
+Done Xpand.ExpressApp.Thumbnail.Web
+Building Xpand.ExpressApp.ConditionalDetailViews...
+Done Xpand.ExpressApp.ConditionalDetailViews
+Building Xpand.ExpressApp.JobScheduler...
+Done Xpand.ExpressApp.JobScheduler
+Building Xpand.Persistent.BaseImpl...
+Done Xpand.Persistent.BaseImpl
+Building Xpand.ExpressApp.JobScheduler.Jobs...
+Done Xpand.ExpressApp.JobScheduler.Jobs
+Building Xpand.ExpressApp.ImportWizard...
+Done Xpand.ExpressApp.ImportWizard
+Building Xpand.ExpressApp.ImportWizard.Win...
+Done Xpand.ExpressApp.ImportWizard.Win
+Building Xpand.ExpressApp.Workflow...
+Done Xpand.ExpressApp.Workflow
+Building Xpand.ExpressApp.StateMachine...
+Done Xpand.ExpressApp.StateMachine
+Building Xpand.Quartz.Server...
+Done Building Xpand.Quartz.Server
+Building FeatureCenter.Base...
+Done Building FeatureCenter.Base
+Building FeatureCenter.Module...
+Done Building FeatureCenter.Module
+Building FeatureCenter.Module.Win...
+Done Building FeatureCenter.Module.Win
+Building FeatureCenter.Module.Web...
+Done Building FeatureCenter.Module.Web
+Building FeatureCenter.Win...
+Done Building FeatureCenter.Win
+Building FeatureCenter.Web...
+Done Building FeatureCenter.Web
+Building ExternalApplication.Module.Win...
+Done Building ExternalApplication.Module.Win
+Building ExternalApplication.Win...
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\Microsoft.Common.targets(1360,9): warning MSB3245: Could not resolve this reference. Could not locate the assembly "DevExpress.OfficeSkins.v11.2". Check to make sure the assembly exists on disk. If this reference is required by your code, you may get compilation errors. [C:\Projects\Xpand\FeatureCenter\ExternalApplication\ExternalApplication.Win\ExternalApplication.Win.csproj]
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\Microsoft.Common.targets(1360,9): warning MSB3245: Could not resolve this reference. Could not locate the assembly "DevExpress.Xpo.v11.2.Linq". Check to make sure the assembly exists on disk. If this reference is required by your code, you may get compilation errors. [C:\Projects\Xpand\FeatureCenter\ExternalApplication\ExternalApplication.Win\ExternalApplication.Win.csproj]
+WinApplication.Designer.cs(119,107): warning CS0618: 'DevExpress.ExpressApp.ConditionalEditorState.Win.ConditionalEditorStateWindowsFormsModule' is obsolete: 'Use ConditionalAppearanceModule instead. Refer to the K18547 KB Article ( http://www.devexpress.com/kb=K18547 ) for more information on how to update your code.' [C:\Projects\Xpand\FeatureCenter\ExternalApplication\ExternalApplication.Win\ExternalApplication.Win.csproj]
+WinApplication.Designer.cs(42,115): warning CS0618: 'DevExpress.ExpressApp.ConditionalEditorState.Win.ConditionalEditorStateWindowsFormsModule' is obsolete: 'Use ConditionalAppearanceModule instead. Refer to the K18547 KB Article ( http://www.devexpress.com/kb=K18547 ) for more information on how to update your code.' [C:\Projects\Xpand\FeatureCenter\ExternalApplication\ExternalApplication.Win\ExternalApplication.Win.csproj]
+Done Building ExternalApplication.Win
+Building Xpand.ExpressApp.ModelEditor...
+Done Building Xpand.ExpressApp.ModelEditor
+Building XpandAddIns...
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\Microsoft.Common.targets(1360,9): warning MSB3245: Could not resolve this reference. Could not locate the assembly "DevExpress.CodeRush.StructuralParser". Check to make sure the assembly exists on disk. If this reference is required by your code, you may get compilation errors. [C:\Projects\Xpand\Xpand.Addins\XpandAddIns.csproj]
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\Microsoft.Common.targets(1360,9): warning MSB3245: Could not resolve this reference. Could not locate the assembly "DevExpress.DXCore.Controls.Data.v6.3". Check to make sure the assembly exists on disk. If this reference is required by your code, you may get compilation errors. [C:\Projects\Xpand\Xpand.Addins\XpandAddIns.csproj]
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\Microsoft.Common.targets(1360,9): warning MSB3245: Could not resolve this reference. Could not locate the assembly "DevExpress.DXCore.Controls.Utils.v6.3". Check to make sure the assembly exists on disk. If this reference is required by your code, you may get compilation errors. [C:\Projects\Xpand\Xpand.Addins\XpandAddIns.csproj]
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\Microsoft.Common.targets(1360,9): warning MSB3245: Could not resolve this reference. Could not locate the assembly "DevExpress.DXCore.Controls.Xpo.v6.3". Check to make sure the assembly exists on disk. If this reference is required by your code, you may get compilation errors. [C:\Projects\Xpand\Xpand.Addins\XpandAddIns.csproj]
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\Microsoft.Common.targets(1360,9): warning MSB3245: Could not resolve this reference. Could not locate the assembly "DevExpress.DXCore.Controls.XtraEditors.v6.3". Check to make sure the assembly exists on disk. If this reference is required by your code, you may get compilation errors. [C:\Projects\Xpand\Xpand.Addins\XpandAddIns.csproj]
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\Microsoft.Common.targets(1360,9): warning MSB3245: Could not resolve this reference. Could not locate the assembly "DevExpress.DXCore.Controls.XtraGrid.v6.3". Check to make sure the assembly exists on disk. If this reference is required by your code, you may get compilation errors. [C:\Projects\Xpand\Xpand.Addins\XpandAddIns.csproj]
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\Microsoft.Common.targets(1360,9): warning MSB3245: Could not resolve this reference. Could not locate the assembly "DevExpress.DXCore.Parser". Check to make sure the assembly exists on disk. If this reference is required by your code, you may get compilation errors. [C:\Projects\Xpand\Xpand.Addins\XpandAddIns.csproj]
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\Microsoft.Common.targets(1360,9): warning MSB3245: Could not resolve this reference. Could not locate the assembly "DevExpress.CodeRush.Common". Check to make sure the assembly exists on disk. If this reference is required by your code, you may get compilation errors. [C:\Projects\Xpand\Xpand.Addins\XpandAddIns.csproj]
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\Microsoft.Common.targets(1360,9): warning MSB3245: Could not resolve this reference. Could not locate the assembly "DevExpress.CodeRush.Core". Check to make sure the assembly exists on disk. If this reference is required by your code, you may get compilation errors. [C:\Projects\Xpand\Xpand.Addins\XpandAddIns.csproj]
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\Microsoft.Common.targets(1360,9): warning MSB3245: Could not resolve this reference. Could not locate the assembly "DevExpress.CodeRush.PlugInCore". Check to make sure the assembly exists on disk. If this reference is required by your code, you may get compilation errors. [C:\Projects\Xpand\Xpand.Addins\XpandAddIns.csproj]
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\Microsoft.Common.targets(1360,9): warning MSB3245: Could not resolve this reference. Could not locate the assembly "DevExpress.CodeRush.VSCore". Check to make sure the assembly exists on disk. If this reference is required by your code, you may get compilation errors. [C:\Projects\Xpand\Xpand.Addins\XpandAddIns.csproj]
+AssociationBuilder.cs(1,7): error CS0246: The type or namespace name 'DevExpress' could not be found (are you missing a using directive or an assembly reference?) [C:\Projects\Xpand\Xpand.Addins\XpandAddIns.csproj]
+AssociationBuilder.cs(2,7): error CS0246: The type or namespace name 'DevExpress' could not be found (are you missing a using directive or an assembly reference?) [C:\Projects\Xpand\Xpand.Addins\XpandAddIns.csproj]
+AssociationBuilder.cs(3,7): error CS0246: The type or namespace name 'DevExpress' could not be found (are you missing a using directive or an assembly reference?) [C:\Projects\Xpand\Xpand.Addins\XpandAddIns.csproj]
+AvaliabiltityCalulator.cs(4,7): error CS0246: The type or namespace name 'DevExpress' could not be found (are you missing a using directive or an assembly reference?) [C:\Projects\Xpand\Xpand.Addins\XpandAddIns.csproj]
+AvaliabiltityCalulator.cs(5,7): error CS0246: The type or namespace name 'DevExpress' could not be found (are you missing a using directive or an assembly reference?) [C:\Projects\Xpand\Xpand.Addins\XpandAddIns.csproj]
+AvaliabiltityCalulator.cs(6,7): error CS0246: The type or namespace name 'DevExpress' could not be found (are you missing a using directive or an assembly reference?) [C:\Projects\Xpand\Xpand.Addins\XpandAddIns.csproj]
+Extensions\AttributeElementExtensions.cs(2,7): error CS0246: The type or namespace name 'DevExpress' could not be found (are you missing a using directive or an assembly reference?) [C:\Projects\Xpand\Xpand.Addins\XpandAddIns.csproj]
+Extensions\CodeElementExtensions.cs(3,7): error CS0246: The type or namespace name 'DevExpress' could not be found (are you missing a using directive or an assembly reference?) [C:\Projects\Xpand\Xpand.Addins\XpandAddIns.csproj]
+Extensions\DteExtensions.cs(3,7): error CS0246: The type or namespace name 'DevExpress' could not be found (are you missing a using directive or an assembly reference?) [C:\Projects\Xpand\Xpand.Addins\XpandAddIns.csproj]
+Extensions\DteExtensions.cs(4,7): error CS0246: The type or namespace name 'DevExpress' could not be found (are you missing a using directive or an assembly reference?) [C:\Projects\Xpand\Xpand.Addins\XpandAddIns.csproj]
+Extensions\ElementExtensions.cs(2,7): error CS0246: The type or namespace name 'DevExpress' could not be found (are you missing a using directive or an assembly reference?) [C:\Projects\Xpand\Xpand.Addins\XpandAddIns.csproj]
+Extensions\ElementExtensions.cs(3,7): error CS0246: The type or namespace name 'DevExpress' could not be found (are you missing a using directive or an assembly reference?) [C:\Projects\Xpand\Xpand.Addins\XpandAddIns.csproj]
+ModelEditor\GridBinder.cs(4,7): error CS0246: The type or namespace name 'DevExpress' could not be found (are you missing a using directive or an assembly reference?) [C:\Projects\Xpand\Xpand.Addins\XpandAddIns.csproj]
+ModelEditor\GridBinder.cs(5,7): error CS0246: The type or namespace name 'DevExpress' could not be found (are you missing a using directive or an assembly reference?) [C:\Projects\Xpand\Xpand.Addins\XpandAddIns.csproj]
+ModelEditor\GridBinder.cs(6,7): error CS0246: The type or namespace name 'DevExpress' could not be found (are you missing a using directive or an assembly reference?) [C:\Projects\Xpand\Xpand.Addins\XpandAddIns.csproj]
+Options.cs(9,7): error CS0246: The type or namespace name 'DevExpress' could not be found (are you missing a using directive or an assembly reference?) [C:\Projects\Xpand\Xpand.Addins\XpandAddIns.csproj]
+Options.cs(10,7): error CS0246: The type or namespace name 'DevExpress' could not be found (are you missing a using directive or an assembly reference?) [C:\Projects\Xpand\Xpand.Addins\XpandAddIns.csproj]
+Options.cs(11,7): error CS0246: The type or namespace name 'DevExpress' could not be found (are you missing a using directive or an assembly reference?) [C:\Projects\Xpand\Xpand.Addins\XpandAddIns.csproj]
+Options.cs(15,36): error CS0246: The type or namespace name 'OptionsPage' could not be found (are you missing a using directive or an assembly reference?) [C:\Projects\Xpand\Xpand.Addins\XpandAddIns.csproj]
+Options.Designer.cs(2,7): error CS0246: The type or namespace name 'DevExpress' could not be found (are you missing a using directive or an assembly reference?) [C:\Projects\Xpand\Xpand.Addins\XpandAddIns.csproj]
+Options.Designer.cs(3,7): error CS0246: The type or namespace name 'DevExpress' could not be found (are you missing a using directive or an assembly reference?) [C:\Projects\Xpand\Xpand.Addins\XpandAddIns.csproj]
+OptionsStorageExtensions.cs(3,7): error CS0246: The type or namespace name 'DevExpress' could not be found (are you missing a using directive or an assembly reference?) [C:\Projects\Xpand\Xpand.Addins\XpandAddIns.csproj]
+PlugIn1.cs(11,7): error CS0246: The type or namespace name 'DevExpress' could not be found (are you missing a using directive or an assembly reference?) [C:\Projects\Xpand\Xpand.Addins\XpandAddIns.csproj]
+PlugIn1.cs(12,7): error CS0246: The type or namespace name 'DevExpress' could not be found (are you missing a using directive or an assembly reference?) [C:\Projects\Xpand\Xpand.Addins\XpandAddIns.csproj]
+PlugIn1.cs(13,7): error CS0246: The type or namespace name 'DevExpress' could not be found (are you missing a using directive or an assembly reference?) [C:\Projects\Xpand\Xpand.Addins\XpandAddIns.csproj]
+PlugIn1.cs(14,7): error CS0246: The type or namespace name 'DevExpress' could not be found (are you missing a using directive or an assembly reference?) [C:\Projects\Xpand\Xpand.Addins\XpandAddIns.csproj]
+PlugIn1.cs(15,7): error CS0246: The type or namespace name 'DevExpress' could not be found (are you missing a using directive or an assembly reference?) [C:\Projects\Xpand\Xpand.Addins\XpandAddIns.csproj]
+PlugIn1.cs(16,7): error CS0246: The type or namespace name 'DevExpress' could not be found (are you missing a using directive or an assembly reference?) [C:\Projects\Xpand\Xpand.Addins\XpandAddIns.csproj]
+PlugIn1.cs(17,7): error CS0246: The type or namespace name 'DevExpress' could not be found (are you missing a using directive or an assembly reference?) [C:\Projects\Xpand\Xpand.Addins\XpandAddIns.csproj]
+PlugIn1.cs(28,36): error CS0246: The type or namespace name 'StandardPlugIn' could not be found (are you missing a using directive or an assembly reference?) [C:\Projects\Xpand\Xpand.Addins\XpandAddIns.csproj]
+ModelEditor\ProjectWrapperBuilder.cs(3,7): error CS0246: The type or namespace name 'DevExpress' could not be found (are you missing a using directive or an assembly reference?) [C:\Projects\Xpand\Xpand.Addins\XpandAddIns.csproj]
+ProjectLoader.cs(5,7): error CS0246: The type or namespace name 'DevExpress' could not be found (are you missing a using directive or an assembly reference?) [C:\Projects\Xpand\Xpand.Addins\XpandAddIns.csproj]
+ProjectLoader.cs(6,7): error CS0246: The type or namespace name 'DevExpress' could not be found (are you missing a using directive or an assembly reference?) [C:\Projects\Xpand\Xpand.Addins\XpandAddIns.csproj]
+ProjectLoader.cs(7,7): error CS0246: The type or namespace name 'DevExpress' could not be found (are you missing a using directive or an assembly reference?) [C:\Projects\Xpand\Xpand.Addins\XpandAddIns.csproj]
+Properties\AssemblyInfo.cs(4,7): error CS0246: The type or namespace name 'DevExpress' could not be found (are you missing a using directive or an assembly reference?) [C:\Projects\Xpand\Xpand.Addins\XpandAddIns.csproj]
+Extensions\SolutionExtension.cs(2,7): error CS0246: The type or namespace name 'DevExpress' could not be found (are you missing a using directive or an assembly reference?) [C:\Projects\Xpand\Xpand.Addins\XpandAddIns.csproj]
+ModelEditor\METoolWindow.cs(4,7): error CS0246: The type or namespace name 'DevExpress' could not be found (are you missing a using directive or an assembly reference?) [C:\Projects\Xpand\Xpand.Addins\XpandAddIns.csproj]
+ModelEditor\METoolWindow.cs(5,7): error CS0246: The type or namespace name 'DevExpress' could not be found (are you missing a using directive or an assembly reference?) [C:\Projects\Xpand\Xpand.Addins\XpandAddIns.csproj]
+ModelEditor\METoolWindow.cs(6,7): error CS0246: The type or namespace name 'DevExpress' could not be found (are you missing a using directive or an assembly reference?) [C:\Projects\Xpand\Xpand.Addins\XpandAddIns.csproj]
+ModelEditor\METoolWindow.cs(7,7): error CS0246: The type or namespace name 'DevExpress' could not be found (are you missing a using directive or an assembly reference?) [C:\Projects\Xpand\Xpand.Addins\XpandAddIns.csproj]
+ModelEditor\METoolWindow.cs(13,41): error CS0246: The type or namespace name 'ToolWindowPlugIn' could not be found (are you missing a using directive or an assembly reference?) [C:\Projects\Xpand\Xpand.Addins\XpandAddIns.csproj]
+ModelEditor\METoolWindow.Designer.cs(1,7): error CS0246: The type or namespace name 'DevExpress' could not be found (are you missing a using directive or an assembly reference?) [C:\Projects\Xpand\Xpand.Addins\XpandAddIns.csproj]
+ModelEditor\METoolWindow.Designer.cs(2,7): error CS0246: The type or namespace name 'DevExpress' could not be found (are you missing a using directive or an assembly reference?) [C:\Projects\Xpand\Xpand.Addins\XpandAddIns.csproj]
+ModelEditor\METoolWindow.Designer.cs(3,7): error CS0246: The type or namespace name 'DevExpress' could not be found (are you missing a using directive or an assembly reference?) [C:\Projects\Xpand\Xpand.Addins\XpandAddIns.csproj]
+ModelEditor\METoolWindow.Designer.cs(4,7): error CS0246: The type or namespace name 'DevExpress' could not be found (are you missing a using directive or an assembly reference?) [C:\Projects\Xpand\Xpand.Addins\XpandAddIns.csproj]
+AssociationBuilder.cs(5,19): error CS0246: The type or namespace name 'DevExpress' could not be found (are you missing a using directive or an assembly reference?) [C:\Projects\Xpand\Xpand.Addins\XpandAddIns.csproj]
+AssociationBuilder.cs(9,26): error CS0246: The type or namespace name 'Property' could not be found (are you missing a using directive or an assembly reference?) [C:\Projects\Xpand\Xpand.Addins\XpandAddIns.csproj]
+AssociationBuilder.cs(11,35): error CS0246: The type or namespace name 'Property' could not be found (are you missing a using directive or an assembly reference?) [C:\Projects\Xpand\Xpand.Addins\XpandAddIns.csproj]
+AssociationBuilder.cs(15,16): error CS0246: The type or namespace name 'Class' could not be found (are you missing a using directive or an assembly reference?) [C:\Projects\Xpand\Xpand.Addins\XpandAddIns.csproj]
+AssociationBuilder.cs(41,16): error CS0246: The type or namespace name 'Property' could not be found (are you missing a using directive or an assembly reference?) [C:\Projects\Xpand\Xpand.Addins\XpandAddIns.csproj]
+AvaliabiltityCalulator.cs(18,26): error CS0246: The type or namespace name 'LanguageElement' could not be found (are you missing a using directive or an assembly reference?) [C:\Projects\Xpand\Xpand.Addins\XpandAddIns.csproj]
+AvaliabiltityCalulator.cs(20,39): error CS0246: The type or namespace name 'LanguageElement' could not be found (are you missing a using directive or an assembly reference?) [C:\Projects\Xpand\Xpand.Addins\XpandAddIns.csproj]
+Extensions\AttributeElementExtensions.cs(6,36): error CS0246: The type or namespace name 'IAttributeElement' could not be found (are you missing a using directive or an assembly reference?) [C:\Projects\Xpand\Xpand.Addins\XpandAddIns.csproj]
+Extensions\CodeElementExtensions.cs(4,19): error CS0246: The type or namespace name 'DevExpress' could not be found (are you missing a using directive or an assembly reference?) [C:\Projects\Xpand\Xpand.Addins\XpandAddIns.csproj]
+Extensions\CodeElementExtensions.cs(8,52): error CS0246: The type or namespace name 'CodeElement' could not be found (are you missing a using directive or an assembly reference?) [C:\Projects\Xpand\Xpand.Addins\XpandAddIns.csproj]
+Extensions\DteExtensions.cs(9,89): error CS0246: The type or namespace name 'ProjectElement' could not be found (are you missing a using directive or an assembly reference?) [C:\Projects\Xpand\Xpand.Addins\XpandAddIns.csproj]
+Extensions\DteExtensions.cs(9,35): error CS0246: The type or namespace name 'AssemblyReference' could not be found (are you missing a using directive or an assembly reference?) [C:\Projects\Xpand\Xpand.Addins\XpandAddIns.csproj]
+Extensions\ElementExtensions.cs(8,36): error CS0246: The type or namespace name 'IElement' could not be found (are you missing a using directive or an assembly reference?) [C:\Projects\Xpand\Xpand.Addins\XpandAddIns.csproj]
+Extensions\ElementExtensions.cs(15,49): error CS0246: The type or namespace name 'IElement' could not be found (are you missing a using directive or an assembly reference?) [C:\Projects\Xpand\Xpand.Addins\XpandAddIns.csproj]
+Extensions\ElementExtensions.cs(15,23): error CS0246: The type or namespace name 'IElement' could not be found (are you missing a using directive or an assembly reference?) [C:\Projects\Xpand\Xpand.Addins\XpandAddIns.csproj]
+ModelEditor\GridBinder.cs(11,18): error CS0246: The type or namespace name 'GridControl' could not be found (are you missing a using directive or an assembly reference?) [C:\Projects\Xpand\Xpand.Addins\XpandAddIns.csproj]
+ModelEditor\GridBinder.cs(13,20): error CS0246: The type or namespace name 'GridControl' could not be found (are you missing a using directive or an assembly reference?) [C:\Projects\Xpand\Xpand.Addins\XpandAddIns.csproj]
+ModelEditor\GridBinder.cs(13,45): error CS0246: The type or namespace name 'DXCoreEvents' could not be found (are you missing a using directive or an assembly reference?) [C:\Projects\Xpand\Xpand.Addins\XpandAddIns.csproj]
+ModelEditor\GridBinder.cs(59,33): error CS0246: The type or namespace name 'GridControl' could not be found (are you missing a using directive or an assembly reference?) [C:\Projects\Xpand\Xpand.Addins\XpandAddIns.csproj]
+ModelEditor\GridBinder.cs(59,58): error CS0246: The type or namespace name 'DXCoreEvents' could not be found (are you missing a using directive or an assembly reference?) [C:\Projects\Xpand\Xpand.Addins\XpandAddIns.csproj]
+Options.cs(111,59): error CS0246: The type or namespace name 'CommitChangesEventArgs' could not be found (are you missing a using directive or an assembly reference?) [C:\Projects\Xpand\Xpand.Addins\XpandAddIns.csproj]
+Options.cs(131,66): error CS0246: The type or namespace name 'DecoupledStorage' could not be found (are you missing a using directive or an assembly reference?) [C:\Projects\Xpand\Xpand.Addins\XpandAddIns.csproj]
+Options.cs(169,71): error CS0246: The type or namespace name 'ButtonPressedEventArgs' could not be found (are you missing a using directive or an assembly reference?) [C:\Projects\Xpand\Xpand.Addins\XpandAddIns.csproj]
+Options.cs(173,75): error CS0246: The type or namespace name 'ButtonPressedEventArgs' could not be found (are you missing a using directive or an assembly reference?) [C:\Projects\Xpand\Xpand.Addins\XpandAddIns.csproj]
+Options.cs(183,80): error CS0246: The type or namespace name 'ButtonPressedEventArgs' could not be found (are you missing a using directive or an assembly reference?) [C:\Projects\Xpand\Xpand.Addins\XpandAddIns.csproj]
+Options.Designer.cs(358,23): error CS0246: The type or namespace name 'DecoupledStorage' could not be found (are you missing a using directive or an assembly reference?) [C:\Projects\Xpand\Xpand.Addins\XpandAddIns.csproj]
+Options.Designer.cs(395,17): error CS0246: The type or namespace name 'LabelControl' could not be found (are you missing a using directive or an assembly reference?) [C:\Projects\Xpand\Xpand.Addins\XpandAddIns.csproj]
+Options.Designer.cs(396,17): error CS0246: The type or namespace name 'ButtonEdit' could not be found (are you missing a using directive or an assembly reference?) [C:\Projects\Xpand\Xpand.Addins\XpandAddIns.csproj]
+Options.Designer.cs(397,17): error CS0246: The type or namespace name 'LabelControl' could not be found (are you missing a using directive or an assembly reference?) [C:\Projects\Xpand\Xpand.Addins\XpandAddIns.csproj]
+Options.Designer.cs(398,17): error CS0246: The type or namespace name 'ButtonEdit' could not be found (are you missing a using directive or an assembly reference?) [C:\Projects\Xpand\Xpand.Addins\XpandAddIns.csproj]
+Options.Designer.cs(399,17): error CS0246: The type or namespace name 'ButtonEdit' could not be found (are you missing a using directive or an assembly reference?) [C:\Projects\Xpand\Xpand.Addins\XpandAddIns.csproj]
+Options.Designer.cs(400,17): error CS0246: The type or namespace name 'LabelControl' could not be found (are you missing a using directive or an assembly reference?) [C:\Projects\Xpand\Xpand.Addins\XpandAddIns.csproj]
+Options.Designer.cs(402,17): error CS0246: The type or namespace name 'DevExpress' could not be found (are you missing a using directive or an assembly reference?) [C:\Projects\Xpand\Xpand.Addins\XpandAddIns.csproj]
+Options.Designer.cs(403,17): error CS0246: The type or namespace name 'DevExpress' could not be found (are you missing a using directive or an assembly reference?) [C:\Projects\Xpand\Xpand.Addins\XpandAddIns.csproj]
+Options.Designer.cs(404,17): error CS0246: The type or namespace name 'DevExpress' could not be found (are you missing a using directive or an assembly reference?) [C:\Projects\Xpand\Xpand.Addins\XpandAddIns.csproj]
+Options.Designer.cs(405,17): error CS0246: The type or namespace name 'DevExpress' could not be found (are you missing a using directive or an assembly reference?) [C:\Projects\Xpand\Xpand.Addins\XpandAddIns.csproj]
+Options.Designer.cs(406,17): error CS0246: The type or namespace name 'DevExpress' could not be found (are you missing a using directive or an assembly reference?) [C:\Projects\Xpand\Xpand.Addins\XpandAddIns.csproj]
+Options.Designer.cs(407,17): error CS0246: The type or namespace name 'DevExpress' could not be found (are you missing a using directive or an assembly reference?) [C:\Projects\Xpand\Xpand.Addins\XpandAddIns.csproj]
+Options.Designer.cs(408,17): error CS0246: The type or namespace name 'DevExpress' could not be found (are you missing a using directive or an assembly reference?) [C:\Projects\Xpand\Xpand.Addins\XpandAddIns.csproj]
+Options.Designer.cs(409,17): error CS0246: The type or namespace name 'DevExpress' could not be found (are you missing a using directive or an assembly reference?) [C:\Projects\Xpand\Xpand.Addins\XpandAddIns.csproj]
+Options.Designer.cs(411,17): error CS0246: The type or namespace name 'DevExpress' could not be found (are you missing a using directive or an assembly reference?) [C:\Projects\Xpand\Xpand.Addins\XpandAddIns.csproj]
+Options.Designer.cs(412,17): error CS0246: The type or namespace name 'ButtonEdit' could not be found (are you missing a using directive or an assembly reference?) [C:\Projects\Xpand\Xpand.Addins\XpandAddIns.csproj]
+Options.Designer.cs(413,17): error CS0246: The type or namespace name 'LabelControl' could not be found (are you missing a using directive or an assembly reference?) [C:\Projects\Xpand\Xpand.Addins\XpandAddIns.csproj]
+Options.Designer.cs(414,17): error CS0246: The type or namespace name 'LabelControl' could not be found (are you missing a using directive or an assembly reference?) [C:\Projects\Xpand\Xpand.Addins\XpandAddIns.csproj]
+Options.Designer.cs(415,17): error CS0246: The type or namespace name 'ButtonEdit' could not be found (are you missing a using directive or an assembly reference?) [C:\Projects\Xpand\Xpand.Addins\XpandAddIns.csproj]
+Options.Designer.cs(418,17): error CS0246: The type or namespace name 'CheckEdit' could not be found (are you missing a using directive or an assembly reference?) [C:\Projects\Xpand\Xpand.Addins\XpandAddIns.csproj]
+OptionsStorageExtensions.cs(8,56): error CS0246: The type or namespace name 'DecoupledStorage' could not be found (are you missing a using directive or an assembly reference?) [C:\Projects\Xpand\Xpand.Addins\XpandAddIns.csproj]
+PlugIn1.cs(29,45): error CS0246: The type or namespace name 'ExecuteEventArgs' could not be found (are you missing a using directive or an assembly reference?) [C:\Projects\Xpand\Xpand.Addins\XpandAddIns.csproj]
+PlugIn1.cs(43,65): error CS0246: The type or namespace name 'ExecuteEventArgs' could not be found (are you missing a using directive or an assembly reference?) [C:\Projects\Xpand\Xpand.Addins\XpandAddIns.csproj]
+PlugIn1.cs(47,47): error CS0246: The type or namespace name 'ExecuteEventArgs' could not be found (are you missing a using directive or an assembly reference?) [C:\Projects\Xpand\Xpand.Addins\XpandAddIns.csproj]
+PlugIn1.cs(84,45): error CS0246: The type or namespace name 'ExecuteEventArgs' could not be found (are you missing a using directive or an assembly reference?) [C:\Projects\Xpand\Xpand.Addins\XpandAddIns.csproj]
+PlugIn1.cs(149,43): error CS0246: The type or namespace name 'ExecuteEventArgs' could not be found (are you missing a using directive or an assembly reference?) [C:\Projects\Xpand\Xpand.Addins\XpandAddIns.csproj]
+PlugIn1.cs(200,43): error CS0246: The type or namespace name 'DocumentEventArgs' could not be found (are you missing a using directive or an assembly reference?) [C:\Projects\Xpand\Xpand.Addins\XpandAddIns.csproj]
+PlugIn1.Designer.cs(134,17): error CS0246: The type or namespace name 'DevExpress' could not be found (are you missing a using directive or an assembly reference?) [C:\Projects\Xpand\Xpand.Addins\XpandAddIns.csproj]
+PlugIn1.Designer.cs(135,17): error CS0246: The type or namespace name 'DevExpress' could not be found (are you missing a using directive or an assembly reference?) [C:\Projects\Xpand\Xpand.Addins\XpandAddIns.csproj]
+PlugIn1.Designer.cs(136,17): error CS0246: The type or namespace name 'DevExpress' could not be found (are you missing a using directive or an assembly reference?) [C:\Projects\Xpand\Xpand.Addins\XpandAddIns.csproj]
+PlugIn1.Designer.cs(137,17): error CS0246: The type or namespace name 'DevExpress' could not be found (are you missing a using directive or an assembly reference?) [C:\Projects\Xpand\Xpand.Addins\XpandAddIns.csproj]
+PlugIn1.Designer.cs(138,17): error CS0246: The type or namespace name 'DevExpress' could not be found (are you missing a using directive or an assembly reference?) [C:\Projects\Xpand\Xpand.Addins\XpandAddIns.csproj]
+PlugIn1.Designer.cs(139,17): error CS0246: The type or namespace name 'DevExpress' could not be found (are you missing a using directive or an assembly reference?) [C:\Projects\Xpand\Xpand.Addins\XpandAddIns.csproj]
+PlugIn1.Designer.cs(140,17): error CS0246: The type or namespace name 'DevExpress' could not be found (are you missing a using directive or an assembly reference?) [C:\Projects\Xpand\Xpand.Addins\XpandAddIns.csproj]
+ProjectLoader.cs(40,32): error CS0246: The type or namespace name 'AssemblyReference' could not be found (are you missing a using directive or an assembly reference?) [C:\Projects\Xpand\Xpand.Addins\XpandAddIns.csproj]
+ProjectLoader.cs(50,71): error CS0246: The type or namespace name 'AssemblyReference' could not be found (are you missing a using directive or an assembly reference?) [C:\Projects\Xpand\Xpand.Addins\XpandAddIns.csproj]
+ModelEditor\METoolWindow.cs(71,52): error CS0246: The type or namespace name 'ExecuteEventArgs' could not be found (are you missing a using directive or an assembly reference?) [C:\Projects\Xpand\Xpand.Addins\XpandAddIns.csproj]
+ModelEditor\METoolWindow.Designer.cs(15,17): error CS0246: The type or namespace name 'DevExpress' could not be found (are you missing a using directive or an assembly reference?) [C:\Projects\Xpand\Xpand.Addins\XpandAddIns.csproj]
+ModelEditor\METoolWindow.Designer.cs(172,17): error CS0246: The type or namespace name 'GridControl' could not be found (are you missing a using directive or an assembly reference?) [C:\Projects\Xpand\Xpand.Addins\XpandAddIns.csproj]
+ModelEditor\METoolWindow.Designer.cs(173,17): error CS0246: The type or namespace name 'GridView' could not be found (are you missing a using directive or an assembly reference?) [C:\Projects\Xpand\Xpand.Addins\XpandAddIns.csproj]
+ModelEditor\METoolWindow.Designer.cs(174,17): error CS0246: The type or namespace name 'GridColumn' could not be found (are you missing a using directive or an assembly reference?) [C:\Projects\Xpand\Xpand.Addins\XpandAddIns.csproj]
+ModelEditor\METoolWindow.Designer.cs(175,17): error CS0246: The type or namespace name 'TextEdit' could not be found (are you missing a using directive or an assembly reference?) [C:\Projects\Xpand\Xpand.Addins\XpandAddIns.csproj]
+ModelEditor\METoolWindow.Designer.cs(176,17): error CS0246: The type or namespace name 'DevExpress' could not be found (are you missing a using directive or an assembly reference?) [C:\Projects\Xpand\Xpand.Addins\XpandAddIns.csproj]
+Options.cs(14,6): error CS0246: The type or namespace name 'UserLevel' could not be found (are you missing a using directive or an assembly reference?) [C:\Projects\Xpand\Xpand.Addins\XpandAddIns.csproj]
+Options.cs(14,6): error CS0246: The type or namespace name 'UserLevelAttribute' could not be found (are you missing a using directive or an assembly reference?) [C:\Projects\Xpand\Xpand.Addins\XpandAddIns.csproj]
+ModelEditor\METoolWindow.cs(11,6): error CS0246: The type or namespace name 'Title' could not be found (are you missing a using directive or an assembly reference?) [C:\Projects\Xpand\Xpand.Addins\XpandAddIns.csproj]
+ModelEditor\METoolWindow.cs(11,6): error CS0246: The type or namespace name 'TitleAttribute' could not be found (are you missing a using directive or an assembly reference?) [C:\Projects\Xpand\Xpand.Addins\XpandAddIns.csproj]
+Properties\AssemblyInfo.cs(6,12): error CS0246: The type or namespace name 'DXCoreAssembly' could not be found (are you missing a using directive or an assembly reference?) [C:\Projects\Xpand\Xpand.Addins\XpandAddIns.csproj]
+Properties\AssemblyInfo.cs(6,12): error CS0246: The type or namespace name 'DXCoreAssemblyAttribute' could not be found (are you missing a using directive or an assembly reference?) [C:\Projects\Xpand\Xpand.Addins\XpandAddIns.csproj]
+Done Building XpandAddIns
+Installing and refreshing visual studio templates
+Xpand.DesignExperience\vs_templates\cs\XpandFullSolutionCS.v11.2.zip
+1 File(s) copied
+Xpand.DesignExperience\vs_templates\vb\XpandWinSoultionVB.v11.2.zip
+1 File(s) copied
+Press any key to continue . . . 
