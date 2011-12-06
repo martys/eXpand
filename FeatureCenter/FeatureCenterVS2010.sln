@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FeatureCenter.Web", "Featur
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xpand.Quartz.Server", "..\Xpand\Xpand.ExpressApp.Modules\Quartz.Server\Xpand.Quartz.Server.csproj", "{09082B9A-906C-4A17-A2E5-6C947DAC7C85}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xpand.ExpressApp.Win", "..\Xpand\Xpand.ExpressApp\Xpand.ExpressApp.Win\Xpand.ExpressApp.Win.csproj", "{C88FF08D-3819-41C0-A1F2-F4FF0CDFE99D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -118,6 +120,16 @@ Global
 		{09082B9A-906C-4A17-A2E5-6C947DAC7C85}.EasyTest|Any CPU.Build.0 = Release|Any CPU
 		{09082B9A-906C-4A17-A2E5-6C947DAC7C85}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{09082B9A-906C-4A17-A2E5-6C947DAC7C85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C88FF08D-3819-41C0-A1F2-F4FF0CDFE99D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C88FF08D-3819-41C0-A1F2-F4FF0CDFE99D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C88FF08D-3819-41C0-A1F2-F4FF0CDFE99D}.DebugGAC|Any CPU.ActiveCfg = Debug|Any CPU
+		{C88FF08D-3819-41C0-A1F2-F4FF0CDFE99D}.DebugGAC|Any CPU.Build.0 = Debug|Any CPU
+		{C88FF08D-3819-41C0-A1F2-F4FF0CDFE99D}.DebugTest|Any CPU.ActiveCfg = Debug|Any CPU
+		{C88FF08D-3819-41C0-A1F2-F4FF0CDFE99D}.DebugTest|Any CPU.Build.0 = Debug|Any CPU
+		{C88FF08D-3819-41C0-A1F2-F4FF0CDFE99D}.EasyTest|Any CPU.ActiveCfg = Release|Any CPU
+		{C88FF08D-3819-41C0-A1F2-F4FF0CDFE99D}.EasyTest|Any CPU.Build.0 = Release|Any CPU
+		{C88FF08D-3819-41C0-A1F2-F4FF0CDFE99D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C88FF08D-3819-41C0-A1F2-F4FF0CDFE99D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

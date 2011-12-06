@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Application>
+  <BOModel>
+    <Class Name="FeatureCenter.Module.Win.PropertyEditors.DurationAsTextTestObject">
+      <OwnMembers>
+        <Member Name="Duration" PropertyEditorType="Xpand.ExpressApp.Win.PropertyEditors.XpandDurationAsTextPropertyEditor"  />
+      </OwnMembers>
+    </Class>
+  </BOModel>
+  <Views>
+    <DetailView Id="DurationPropertyEditors_DetailView">
+      <Items>
+        <PropertyEditor Id="Duration" PropertyEditorType="Xpand.ExpressApp.Win.PropertyEditors.XpandDurationAsTextPropertyEditor" />
+      </Items>
+     
+    </DetailView>
+  </Views>
+</Application>

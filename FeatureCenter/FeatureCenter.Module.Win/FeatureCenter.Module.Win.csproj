@@ -449,6 +449,8 @@
       <SubType>Component</SubType>
     </Compile>
     <Compile Include="PropertyEditors\ChooseFromListCollectionEditor\AttributeRegistrator.cs" />
+    <Compile Include="PropertyEditors\DurationAsTextEditor\AttributeRegistrator.cs" />
+    <Compile Include="PropertyEditors\DurationAsTextEditor\DurationAsTextTestObject.cs" />
     <Compile Include="PropertyEditors\NullAble\AttributeRegistrator.cs" />
     <Compile Include="PropertyEditors\NullAble\PENACustomer.cs" />
     <Compile Include="Miscellaneous\TrayIcon\TICustomer.cs" />
@@ -670,7 +672,11 @@
       <SubType>Designer</SubType>
     </EmbeddedResource>
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <EmbeddedResource Include="PropertyEditors\DurationAsTextEditor\MDO_DurationPropertyEditors.xafml">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="ListViewControl\LayoutViewGridListEditor\MDO_LayoutViewGridListEditor.xafml">
       <SubType>Designer</SubType>

@@ -147,6 +147,10 @@
   <ItemGroup>
     <Compile Include="Core\DynamicDouplicateTypesMapper.cs" />
     <Compile Include="Core\ListViewExtensions.cs" />
+    <Compile Include="Editors\XpandDurationAsTextEdit.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Editors\DurationAsTextHelper.cs" />
     <Compile Include="Editors\XpandFilterControl.cs">
       <SubType>Component</SubType>
     </Compile>
@@ -162,7 +166,7 @@
     </Compile>
     <Compile Include="Model\ModelExtensions.cs" />
     <Compile Include="PropertyEditors\ChooseFromListCollectionEditor.cs" />
-    <Compile Include="PropertyEditors\DurationPropertyEditor.cs" />
+    <Compile Include="PropertyEditors\DurationAsTextPropertyEditor.cs" />
     <Compile Include="PropertyEditors\NullAble\BooleanPropertyEditor\BooleanHAlignFarPropertyEditor.cs" />
     <Compile Include="ListEditors\XpandGridListEditor.cs">
     </Compile>
